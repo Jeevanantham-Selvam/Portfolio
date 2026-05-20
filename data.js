@@ -23,7 +23,7 @@ Beyond code, I mentor junior developers, lead architecture reviews, and conduct 
 If you're looking for a Flutter engineer who owns the full lifecycle — from requirement analysis to release management — let's talk.`,
 
   // ── Profile image ────────────────────────────────────────
-  profileImage: "C:/Users/Jeevanantham/Downloads/profile.png",
+  profileImage: "images/profile.png",
   profileImageAlt: "Jeevanantham S — Flutter Developer",
 
   // ── Nav links ────────────────────────────────────────────
