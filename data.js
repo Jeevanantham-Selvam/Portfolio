@@ -238,7 +238,7 @@ If you're looking for a Flutter engineer who owns the full lifecycle — from re
     },
     {
       title: "Disease Dictionary",
-      logo: "images/disease/webp",
+      logo: "images/disease.webp",
       description: "Medical reference app with Text-to-Speech and real-time word highlighting for accessible content consumption. Fully deployed on Google Play Store and Apple App Store.",
       links: [
         { label: "Play Store", href: "#" },
