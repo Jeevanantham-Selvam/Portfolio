@@ -140,7 +140,7 @@ If you're looking for a Flutter engineer who owns the full lifecycle — from re
   apps: [
     {
       title: "Doc Scanner",
-      logo: "https://cdn-icons-png.flaticon.com/512/1375/1375106.png",
+      logo: "images/doc_Scanner.webp",
       description: "Production document scanner with OCR text recognition, QR scanning, PDF/JPG export, password protection and digital signature. Published on both Google Play Store and Apple App Store.",
       links: [
         { label: "Play Store", href: "#" },
