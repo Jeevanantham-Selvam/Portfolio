@@ -178,7 +178,7 @@ If you're looking for a Flutter engineer who owns the full lifecycle — from re
     },
     {
       title: "Word Connect",
-      logo: "images.word_connect.webp",
+      logo: "images/word_connect.webp",
       description: "Word puzzle game with full Google AdMob monetization suite. Extended from Android to iOS using shared Flutter codebase with Firebase Crashlytics for production stability.",
       links: [
         { label: "Play Store", href: "#" },
