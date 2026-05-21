@@ -150,7 +150,7 @@ If you're looking for a Flutter engineer who owns the full lifecycle — from re
     },
     {
       title: "Vidukathaigal",
-      logo: "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      logo: "images/vidukathaigal.webp",
       description: "Tamil learning platform with scheduled daily push notifications, offline content storage via Sqflite, and REST API-driven content sync. Available on both stores.",
       links: [
         { label: "Play Store", href: "#" },
@@ -160,7 +160,7 @@ If you're looking for a Flutter engineer who owns the full lifecycle — from re
     },
     {
       title: "RoadRules",
-      logo: "https://cdn-icons-png.flaticon.com/512/2972/2972531.png",
+      logo: "images/road_rules.webp",
       description: "Server-driven road rules learning app with WebView CMS integration. Content updates deploy from the backend without requiring new app releases.",
       links: [
         { label: "Play Store", href: "#" },
@@ -169,7 +169,7 @@ If you're looking for a Flutter engineer who owns the full lifecycle — from re
     },
     {
       title: "Toilet Finder",
-      logo: "https://cdn-icons-png.flaticon.com/512/684/684908.png",
+      logo: "images/toilet_finder.webp",
       description: "GPS-powered nearby facility finder with Google Maps integration, real-time location tracking, user reviews, and location-based filtering.",
       links: [
         { label: "Play Store", href: "#" },
@@ -178,7 +178,7 @@ If you're looking for a Flutter engineer who owns the full lifecycle — from re
     },
     {
       title: "Word Connect",
-      logo: "https://cdn-icons-png.flaticon.com/512/3131/3131607.png",
+      logo: "images.word_connect.webp",
       description: "Word puzzle game with full Google AdMob monetization suite. Extended from Android to iOS using shared Flutter codebase with Firebase Crashlytics for production stability.",
       links: [
         { label: "Play Store", href: "#" },
@@ -188,7 +188,7 @@ If you're looking for a Flutter engineer who owns the full lifecycle — from re
     },
     {
       title: "Mehndi App",
-      logo: "https://cdn-icons-png.flaticon.com/512/2942/2942886.png",
+      logo: "images/mehndi.webp",
       description: "Mehndi design gallery app with optimized rendering performance. Resolved critical Play Store rejection issues and successfully deployed to both Google Play Store and Apple App Store.",
       links: [
         { label: "Play Store", href: "#" },
@@ -208,7 +208,7 @@ If you're looking for a Flutter engineer who owns the full lifecycle — from re
     },
     {
       title: "Sudoku",
-      logo: "https://cdn-icons-png.flaticon.com/512/685/685355.png",
+      logo: "images/sudoko.webp",
       description: "Classic Sudoku puzzle game extended to iOS with proper permission handling and App Store deployment configuration for a seamless cross-platform experience.",
       links: [
         { label: "Play Store", href: "#" },
@@ -228,7 +228,7 @@ If you're looking for a Flutter engineer who owns the full lifecycle — from re
     },
     {
       title: "Jokes App",
-      logo: "https://cdn-icons-png.flaticon.com/512/742/742751.png",
+      logo: "images/jokes.webp",
       description: "Jokes app featuring Text-to-Speech with synchronized real-time word highlighting for an engaging listening experience. Deployed on both Play Store and App Store.",
       links: [
         { label: "Play Store", href: "#" },
@@ -238,7 +238,7 @@ If you're looking for a Flutter engineer who owns the full lifecycle — from re
     },
     {
       title: "Disease Dictionary",
-      logo: "https://cdn-icons-png.flaticon.com/512/2382/2382533.png",
+      logo: "images/disease/webp",
       description: "Medical reference app with Text-to-Speech and real-time word highlighting for accessible content consumption. Fully deployed on Google Play Store and Apple App Store.",
       links: [
         { label: "Play Store", href: "#" },
@@ -248,7 +248,7 @@ If you're looking for a Flutter engineer who owns the full lifecycle — from re
     },
     {
       title: "Agricultural App",
-      logo: "https://cdn-icons-png.flaticon.com/512/2909/2909769.png",
+      logo: "images/agri.webp",
       description: "Agriculture information app with Text-to-Speech and synchronized word highlighting to support farmers with accessible content. Published on both Play Store and App Store.",
       links: [
         { label: "Play Store", href: "#" },
